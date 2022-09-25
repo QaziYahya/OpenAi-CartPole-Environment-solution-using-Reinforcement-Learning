@@ -6,7 +6,7 @@ Reinforcement Learning DQN - using OpenAI Cart Pole environment
 <li>gym</li>
 </br>
 
-The OpenAI Cart Pole consists of a pole placed upright ontop of a cart which moves along a frictionless track. The goal is to balance the pole by applying forces in the left and right direction on the cart. The cart can be controlled by using 2 discrete actions which are repersented by 0 and 1. They are described as follows:
+The OpenAI Cart Pole environment consists of a pole placed upright ontop of a cart which moves along a frictionless track. The goal is to balance the pole by applying forces in the left and right direction on the cart. The cart can be controlled by using 2 discrete actions which are repersented by 0 and 1. They are described as follows:
 
 <li>0: Push cart to the left</li>
 <li>1: Push cart to the right</li>
